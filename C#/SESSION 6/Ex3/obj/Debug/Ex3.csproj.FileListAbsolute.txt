@@ -1,0 +1,6 @@
+D:\C_Sharp\C#\SESSION 6\Ex3\bin\Debug\Ex3.exe.config
+D:\C_Sharp\C#\SESSION 6\Ex3\bin\Debug\Ex3.exe
+D:\C_Sharp\C#\SESSION 6\Ex3\bin\Debug\Ex3.pdb
+D:\C_Sharp\C#\SESSION 6\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\SESSION 6\Ex3\obj\Debug\Ex3.exe
+D:\C_Sharp\C#\SESSION 6\Ex3\obj\Debug\Ex3.pdb

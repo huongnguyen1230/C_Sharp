@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\SESSION 6\Ex13\bin\Debug\Ex13.exe.config
+D:\C_Sharp\C#\SESSION 6\Ex13\bin\Debug\Ex13.exe
+D:\C_Sharp\C#\SESSION 6\Ex13\bin\Debug\Ex13.pdb
+D:\C_Sharp\C#\SESSION 6\Ex13\obj\Debug\Ex13.csprojAssemblyReference.cache
+D:\C_Sharp\C#\SESSION 6\Ex13\obj\Debug\Ex13.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\SESSION 6\Ex13\obj\Debug\Ex13.exe
+D:\C_Sharp\C#\SESSION 6\Ex13\obj\Debug\Ex13.pdb
