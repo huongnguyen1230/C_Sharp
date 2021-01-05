@@ -1,2 +1,7 @@
 D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.csprojAssemblyReference.cache
 D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\bin\Debug\Noertis Pharma.exe.config
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\bin\Debug\Noertis Pharma.exe
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\bin\Debug\Noertis Pharma.pdb
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.exe
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.pdb
