@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\Classes And Methods\Inventory\bin\Debug\Inventory.exe.config
+D:\C_Sharp\C#\Classes And Methods\Inventory\bin\Debug\Inventory.exe
+D:\C_Sharp\C#\Classes And Methods\Inventory\bin\Debug\Inventory.pdb
+D:\C_Sharp\C#\Classes And Methods\Inventory\obj\Debug\Inventory.csprojAssemblyReference.cache
+D:\C_Sharp\C#\Classes And Methods\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\Classes And Methods\Inventory\obj\Debug\Inventory.exe
+D:\C_Sharp\C#\Classes And Methods\Inventory\obj\Debug\Inventory.pdb

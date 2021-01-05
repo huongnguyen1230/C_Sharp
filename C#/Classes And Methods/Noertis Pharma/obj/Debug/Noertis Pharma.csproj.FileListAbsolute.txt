@@ -1,0 +1,2 @@
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.csprojAssemblyReference.cache
+D:\C_Sharp\C#\Classes And Methods\Noertis Pharma\obj\Debug\Noertis Pharma.csproj.CoreCompileInputs.cache
