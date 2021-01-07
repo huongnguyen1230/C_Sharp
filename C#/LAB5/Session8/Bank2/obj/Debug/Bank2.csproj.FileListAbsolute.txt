@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\LAB5\Session8\Bank2\bin\Debug\Bank2.exe.config
+D:\C_Sharp\C#\LAB5\Session8\Bank2\bin\Debug\Bank2.exe
+D:\C_Sharp\C#\LAB5\Session8\Bank2\bin\Debug\Bank2.pdb
+D:\C_Sharp\C#\LAB5\Session8\Bank2\obj\Debug\Bank2.csprojAssemblyReference.cache
+D:\C_Sharp\C#\LAB5\Session8\Bank2\obj\Debug\Bank2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\LAB5\Session8\Bank2\obj\Debug\Bank2.exe
+D:\C_Sharp\C#\LAB5\Session8\Bank2\obj\Debug\Bank2.pdb

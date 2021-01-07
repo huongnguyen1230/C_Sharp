@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\LAB5\Session8\Bank3\bin\Debug\Bank3.exe.config
+D:\C_Sharp\C#\LAB5\Session8\Bank3\bin\Debug\Bank3.exe
+D:\C_Sharp\C#\LAB5\Session8\Bank3\bin\Debug\Bank3.pdb
+D:\C_Sharp\C#\LAB5\Session8\Bank3\obj\Debug\Bank3.csprojAssemblyReference.cache
+D:\C_Sharp\C#\LAB5\Session8\Bank3\obj\Debug\Bank3.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\LAB5\Session8\Bank3\obj\Debug\Bank3.exe
+D:\C_Sharp\C#\LAB5\Session8\Bank3\obj\Debug\Bank3.pdb

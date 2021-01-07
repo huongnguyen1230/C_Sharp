@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\LAB5\Session7\Company2\bin\Debug\Company2.exe.config
+D:\C_Sharp\C#\LAB5\Session7\Company2\bin\Debug\Company2.exe
+D:\C_Sharp\C#\LAB5\Session7\Company2\bin\Debug\Company2.pdb
+D:\C_Sharp\C#\LAB5\Session7\Company2\obj\Debug\Company2.csprojAssemblyReference.cache
+D:\C_Sharp\C#\LAB5\Session7\Company2\obj\Debug\Company2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\LAB5\Session7\Company2\obj\Debug\Company2.exe
+D:\C_Sharp\C#\LAB5\Session7\Company2\obj\Debug\Company2.pdb
