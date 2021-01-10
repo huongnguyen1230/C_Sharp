@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A56C6A88-747B-4623-BAFF-694C272E8245}</ProjectGuid>
+    <ProjectGuid>{AF5A5491-3865-41C4-BBF7-3D48D2C07D03}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>IMT</RootNamespace>
-    <AssemblyName>IMT</AssemblyName>
+    <RootNamespace>Ex2</RootNamespace>
+    <AssemblyName>Ex2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="infoPersonnel.cs" />
-    <Compile Include="MedicinesAvailable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Troops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
