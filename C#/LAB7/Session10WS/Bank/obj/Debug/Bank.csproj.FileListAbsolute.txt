@@ -1,0 +1,2 @@
+D:\C_Sharp\C#\LAB7\Session10WS\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+D:\C_Sharp\C#\LAB7\Session10WS\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache

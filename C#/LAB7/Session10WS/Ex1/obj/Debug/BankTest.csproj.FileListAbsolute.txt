@@ -1,0 +1,1 @@
+D:\C_Sharp\C#\LAB7\Session10WS\Ex1\obj\Debug\BankTest.csproj.CoreCompileInputs.cache

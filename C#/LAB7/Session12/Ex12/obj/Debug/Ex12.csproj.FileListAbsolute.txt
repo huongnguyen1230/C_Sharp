@@ -1,0 +1,6 @@
+D:\C_Sharp\C#\LAB7\Session12\Ex12\bin\Debug\Ex12.exe.config
+D:\C_Sharp\C#\LAB7\Session12\Ex12\bin\Debug\Ex12.exe
+D:\C_Sharp\C#\LAB7\Session12\Ex12\bin\Debug\Ex12.pdb
+D:\C_Sharp\C#\LAB7\Session12\Ex12\obj\Debug\Ex12.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\LAB7\Session12\Ex12\obj\Debug\Ex12.exe
+D:\C_Sharp\C#\LAB7\Session12\Ex12\obj\Debug\Ex12.pdb

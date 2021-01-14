@@ -1,0 +1,7 @@
+D:\C_Sharp\C#\LAB7\Session12\Ex2\bin\Debug\Ex2.exe.config
+D:\C_Sharp\C#\LAB7\Session12\Ex2\bin\Debug\Ex2.exe
+D:\C_Sharp\C#\LAB7\Session12\Ex2\bin\Debug\Ex2.pdb
+D:\C_Sharp\C#\LAB7\Session12\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+D:\C_Sharp\C#\LAB7\Session12\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\LAB7\Session12\Ex2\obj\Debug\Ex2.exe
+D:\C_Sharp\C#\LAB7\Session12\Ex2\obj\Debug\Ex2.pdb
