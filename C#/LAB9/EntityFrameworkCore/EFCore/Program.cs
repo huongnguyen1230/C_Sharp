@@ -9,6 +9,7 @@ namespace EFCore
         {
             Console.WriteLine("Hello World!");
             insertProduct();
+            updateProduct();
 
             Console.WriteLine("Press any key to continue");
             Console.ReadKey();
@@ -26,6 +27,17 @@ namespace EFCore
                 product.Name = "Pen Drive";
                 db.Add(product);
 
+                db.SaveChanges();
+            }
+            return;
+        }
+
+        static void updateProduct()
+        {
+            using (var db = new EFContext())
+            {
+                Product product = db.Products.Find(1);
+                product.Name = "Better Pen Drive";
                 db.SaveChanges();
             }
             return;
