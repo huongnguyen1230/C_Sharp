@@ -1,0 +1,6 @@
+D:\C_Sharp\C#\PRACTICE\Animals\bin\Debug\Animals.exe.config
+D:\C_Sharp\C#\PRACTICE\Animals\bin\Debug\Animals.exe
+D:\C_Sharp\C#\PRACTICE\Animals\bin\Debug\Animals.pdb
+D:\C_Sharp\C#\PRACTICE\Animals\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+D:\C_Sharp\C#\PRACTICE\Animals\obj\Debug\Animals.exe
+D:\C_Sharp\C#\PRACTICE\Animals\obj\Debug\Animals.pdb
